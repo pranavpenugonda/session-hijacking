@@ -1,10 +1,10 @@
-#Session Hijacking Tool
+# Session Hijacking Tool
 This tool steals the cookie of any xss vulnerable website when payload is injected in user input field
 
-#Technologies
+# Technologies
 python
 
-#Installation & Usage:
+# Installation & Usage:
 1. clone the repo: https://github.com/pranavpenugonda/session-hijacking.git
 2. run cookieSteal.py-> python3 cookieSteal.py
 3. options will be displayed to the user
